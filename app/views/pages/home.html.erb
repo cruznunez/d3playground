@@ -1,0 +1,5 @@
+<% (1..8).each do |num| %>
+  <p>
+    <%= link_to "Level #{num}", send("level_#{num}_path") %>
+  </p>
+<% end %>
