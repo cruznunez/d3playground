@@ -45,3 +45,16 @@
 - make a bar color generator
 - add the bars
   - use the generators we defined above
+
+# lvl 5 - bar graph - add a scale
+- add a scale
+
+# lvl 6 - bar graph - show data value on hover
+
+# lvl 7 - donut chart
+- set up constants
+- make canvas
+- add a group to the canvas
+- make some circle variables
+- make an arc generator
+- use the arc generator

@@ -17,7 +17,7 @@
 
   # add a line to the canvas
   # line needs point 1 (x1, y1) && point 2 (x2, y2)
-  canvas.append('line')
+  canvas.append 'line'
     .attr
       x1: 0
       y1: 100

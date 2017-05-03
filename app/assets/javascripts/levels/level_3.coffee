@@ -1,6 +1,6 @@
 @level_3 = ->
   # data we want to visualize
-  data = [20, 40, 50]
+  data = [20, 40, 50, 100, 150]
 
   # add a canvas
   canvas = d3.select 'body'
